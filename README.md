@@ -2,6 +2,8 @@
 
 This repository contains a machine learning-based model to assess the credit risk of individuals or organizations. The model uses **Logistic Regression** for classification and **Optuna** for hyperparameter tuning to improve performance.
 
+**Live Application**: [Credit Risk Assessment App](https://creditriskassessment.streamlit.app/)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
